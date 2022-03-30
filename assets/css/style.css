@@ -20,7 +20,8 @@ h2 {
 
 /*SECCION NOSOTROS*/
 #nosotros .card {
-    background:transparent;
+    background-color:transparent;
+    border:none;
 }
 
 /*ESTILOS MODAL*/
