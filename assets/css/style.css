@@ -1,3 +1,42 @@
 body{
     color: white;
 }
+
+section {
+    scroll-margin-top: 40px;
+}
+
+/*TIPOGRAFÍA*/
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.card-text{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*ESTILOS FOOTER*/
+footer a {
+    color:white;
+    text-decoration: none;
+}
