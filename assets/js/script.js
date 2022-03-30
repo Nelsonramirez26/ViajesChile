@@ -7,6 +7,7 @@ var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
 //función ready de JQuery
 $(() => {
 
+    //manejar evento submit del formulario de contacto
     $("#contacto form").on("submit", function(e){
         e.preventDefault();
         let nombre = $('#formulario-nombre').val();
