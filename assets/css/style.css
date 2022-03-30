@@ -18,6 +18,10 @@ h2 {
     font-weight: 300;
 }
 
+/*SECCION NOSOTROS*/
+#nosotros .card {
+    background:transparent;
+}
 
 /*ESTILOS MODAL*/
 #modal-formulario{
